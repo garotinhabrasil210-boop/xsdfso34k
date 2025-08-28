@@ -5,7 +5,7 @@
 -- Configuracoes
 local PORT = 51948
 local HOST = "127.0.0.1"
-local RETRY_DELAY = 0
+local RETRY_DELAY = 5
 
 -- Servicos
 local HttpService = game:GetService("HttpService")
